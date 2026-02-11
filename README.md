@@ -253,9 +253,6 @@ https://your-demo-video-link.com
 
 **Kavindi Sathsarani**  
 GitHub: https://github.com/kavindisathsarani  
-LinkedIn: Add your LinkedIn  
-Email: Add your email  
-
 ---
 
 ## 📄 License
