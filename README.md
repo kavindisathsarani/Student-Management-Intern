@@ -220,8 +220,6 @@ http://localhost:5000/api
 
 ## 🎥 Demo Video
 
-Add your demo video link here:
-
 ```
 https://drive.google.com/file/d/1m-LdEdf7ZdH0_Gg36YNIghoP72Imr_fa/view?usp=sharing
 
